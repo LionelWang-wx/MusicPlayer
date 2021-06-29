@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="D:/java/音乐播放器/lib/audio.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/java/音乐播放器/lib/jaudiotagger-2.2.6-SNAPSHOT.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/java/音乐播放器/lib/jl1.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/java/音乐播放器/lib/jmf.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/java/音乐播放器/lib/sound.jar"/>
+	<classpathentry kind="lib" path="aa/mysql-connector-java-5.1.6-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
